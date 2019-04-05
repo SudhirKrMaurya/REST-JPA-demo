@@ -1,1 +1,1 @@
-REST-JPA-demo
+REST-demo
