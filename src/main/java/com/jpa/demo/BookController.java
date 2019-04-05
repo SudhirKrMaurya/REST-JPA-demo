@@ -11,7 +11,7 @@ public class BookController {
 	@GetMapping("/book")
 	public List<Book> getAllBook()
 	{
-		return Arrays.asList(new Book(1,"master spring","Sudhir maurya"));
+		return Arrays.asList(new Book(1,"master in spring boot","Sudhir maurya"));
 		
 	}
 	
